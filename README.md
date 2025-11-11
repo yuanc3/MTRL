@@ -1,3 +1,3 @@
 # MTRL
 
-To be public within one week.
+To be public.
